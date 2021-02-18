@@ -19,6 +19,8 @@ Esse **Github** é exatamente para isso! Aqui vou compartilhar meus estudos sobr
  - Istio
  - Docker
  - Kubernetes
+ - Certificações Linux (LPI)
+ - Certificações DevOps (EXIN)
 
 Quer trocar uma **idéia ?** 💡 
 
