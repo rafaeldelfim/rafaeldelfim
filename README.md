@@ -1,6 +1,6 @@
 ## Bem vindo ao meu Github 😅
 
-Sou o **Rafael Delfim** 🧑, casado com a *Maria* 👰🤵💖, sou formado em **Sistemas de Informação** 👨‍🎓 e Pós-graduando em **Cloud Computing** ☁️.
+Sou o **Rafael Delfim** 🧑, casado com a *Maria* 👰🤵💖, formado em **Sistemas de Informação** 👨‍🎓 e Pós-graduando em **Cloud Computing** ☁️.
 
 Comecei a trabalhar em 2010 com **Suporte Técnico** 💻, mas em ***2014*** comecei com o **Linux** 🐧. Passei por algumas empresas, desde pequenas 🏢 até multinacionais 🌐.
 
