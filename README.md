@@ -6,7 +6,7 @@ Comecei a trabalhar em 2010 com **Suporte Técnico** 💻, mas em ***2014*** com
 
 Desde então meu foco de **trabalho**  💼 e **estudo** 📚 é voltado a *Administração de Sistemas Operacionais  Linux* .
 
-Agora vem a parte *triste* 😔, demorei muito para entender o quanto **DevOps** 👨‍💻 é importante, agora é correr atrás do *tempo perdido* ⌛️ 🏃
+Agora vem a parte *triste* 😔, demorei muito para entender o quanto **DevOps** 👨‍💻 é importante, agora é correr atrás do *tempo perdido* ⌛️🏃
 
 Esse **Github** é exatamente para isso! Aqui vou compartilhar meus estudos sobre:
 
