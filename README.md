@@ -24,6 +24,5 @@ Esse **Github** é exatamente para isso! Aqui vou compartilhar meus estudos sobr
 
 Quer trocar uma **idéia ?** 💡 
 
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/rafaeldelfim/)](https://www.linkedin.com/in/rafaeldelfim/)[
-![ProtonMail Badge](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white&link=mailto:rafaeldelfim@pm.me/)
+[![ProtonMail Badge](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white&link=mailto:rafaeldelfim@pm.me/)
 ](mailto:rafaeldelfim@pm.me)
