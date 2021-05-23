@@ -21,8 +21,3 @@ Esse **Github** é exatamente para isso! Aqui vou compartilhar meus estudos sobr
  - Kubernetes
  - Certificações Linux (LPI)
  - Certificações DevOps (EXIN)
-
-Quer trocar uma **idéia ?** 💡 
-
-[![ProtonMail Badge](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white&link=mailto:rafaeldelfim@pm.me/)
-](mailto:rafaeldelfim@pm.me)
