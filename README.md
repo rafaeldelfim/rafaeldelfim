@@ -1,15 +1,15 @@
 ## Bem vindo ao meu Github 😅
 
-Sou o **Rafael Delfim** 🧑, casado com a *Maria* 👰🤵💖, formado em **Sistemas de Informação** 👨‍🎓 e Pós-graduando em **Cloud Computing** ☁️.
+Sou o **Rafael Delfim** 🧑, casado com a *Maria* 👰🤵💖, formado em **Sistemas de Informação** 👨‍🎓 e Pós-graduado em **Cloud Computing** ☁️.
 
 Comecei a trabalhar em 2010 com **Suporte Técnico** 💻, mas em ***2014*** comecei com o **Linux** 🐧. Passei por algumas empresas, desde pequenas 🏢 até multinacionais 🌐.
 
 Desde então meu foco de **trabalho**  💼 e **estudo** 📚 é voltado a *Administração de Sistemas Operacionais  Linux* .
 
-Agora vem a parte *triste* 😔, demorei para entender o quanto **DevOps** 👨‍💻 é importante, agora é correr atrás do *tempo perdido* ⌛️🏃
+Todo mundo sabe o quando **DevOps** 👨‍💻 é importante! O quanto essa cultura está cada dia mais presente nas empresas 🏢.
 
-Esse **Github** é exatamente para isso! Aqui vou compartilhar meus estudos sobre:
-
+ E esse **Github** é exatamente para isso! Aqui vou compartilhar meus estudos sobre esse assunto.
+ 
  - Git e Github 
  - Jenkins 
  - Ansible 
