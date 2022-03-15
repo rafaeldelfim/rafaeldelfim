@@ -10,7 +10,7 @@ Todo mundo sabe o quando **DevOps** 👨‍💻 é importante! O quanto essa cul
 
  E esse **Github** é exatamente para isso! Aqui vou compartilhar meus estudos sobre esse assunto.
  
- - Git e Github 
+ - Git e Github
  - Jenkins 
  - Ansible 
  - Terraform
@@ -21,3 +21,5 @@ Todo mundo sabe o quando **DevOps** 👨‍💻 é importante! O quanto essa cul
  - Kubernetes
  - Certificações Linux (LPI)
  - Certificações DevOps (EXIN)
+ - Shell Script
+ - Python ou GO
