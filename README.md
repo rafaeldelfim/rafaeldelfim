@@ -22,4 +22,5 @@ Todo mundo sabe o quando **DevOps** 👨‍💻 é importante! O quanto essa cul
  - Certificações Linux (LPI)
  - Certificações DevOps (EXIN)
  - Shell Script
- - Python ou GO
+ - Python
+ - GO
