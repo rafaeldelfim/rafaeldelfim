@@ -9,16 +9,3 @@ Desde então meu foco de **trabalho**  💼 e **estudo** 📚 é voltado a *Admi
 Todo mundo sabe o quando **DevOps** 👨‍💻 é importante! O quanto essa cultura está cada dia mais presente nas empresas 🏢.
 
  E esse **Github** é exatamente para isso! Aqui vou compartilhar meus estudos sobre esse assunto.
- 
- - Git e Github
- - Jenkins 
- - Ansible 
- - Terraform
- - Prometheus
- - Grafana
- - Istio
- - Docker
- - Kubernetes
- - Certificações Linux (LPI)
- - Shell Script
- - Python
